@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    height: 68vh;
+}
+h1 {
+    text-align: center;
+    margin-top: 90px;
+    color: rgb(120, 61, 178);
+}
+#root {
+    color: #fff;
+    font-size: 150px;
+    text-align: center;
+    margin: 15vh auto 0;
+}
+p {
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 0;
+}
